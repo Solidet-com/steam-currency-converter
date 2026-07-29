@@ -29,8 +29,8 @@ const IN_GAME_ITEM_PRICE = ".item_def_price";
 const NEW_CART_PRICE = "._2WBvzE2CywKDLD0QTnbmUE";
 const NEW_CART_DISCOUNT = ".StoreOriginalPrice";
 const NEW_CART_CHECKOUT_TOTAL = "._2WLaY5TxjBGVyuWe_6KS3N";
-const WISHLIST_PRICE = ".DOnsaVcV0Is-";
-const WISHLIST_ORIGINAL_PRICE = ".ywNldZ-YzEE-";
+const WISHLIST_PRICE = ".-HQzBzl6lqI-";
+const WISHLIST_ORIGINAL_PRICE = "._9Rf9BwU0xAQ-";
 const DISCOVERY_QUEUE_ORIGINAL_PRICE = ".t7Gt8aeopD7JPlhcNTqGV";
 
 /*-- 13/07/24 CART SELECTORS --*/
